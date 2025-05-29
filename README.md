@@ -1,6 +1,7 @@
 # terraform-azurerm-network
 
-## Create a basic network in Azure
+NOT TESTED on terraform v1.5 and azurerm provider 4.0 or greater
+
 
 This Terraform module deploys a Virtual Network in Azure with a subnet or a set of subnets passed in as input parameters.
 
